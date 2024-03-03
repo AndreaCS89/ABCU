@@ -23,4 +23,6 @@ Overall, working on this project broadened my perspective on software design and
 
 - **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 
-My work on this project he
+My work on this project helped me evolve the way I write programs that are maintainable, readable, and adaptable in many ways. Receiving feedback from my professor offered me insights into improving the quality of my code. Additionally, the continuous refining and improving of my existing code through refactoring practices helped me eliminate redundancy, improving clarity, and adhering my code to coding standards. This ensured that the codebase remained clean and easy to maintain over time.
+
+Overall, working on creating code provided me with continuous learning opportunities and encouraged me to adopt the best practices in software development.
