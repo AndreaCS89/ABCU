@@ -17,5 +17,10 @@ In order to overcome any roadblocks, first I had to understand the problem that 
 
 - **How has your work on this project expanded your approach to designing software and developing programs?**
 
+My work on this project has expended my approach to designing software and developing programs in several ways. Through my work, I learned to prioritize user experience by designing intuitive interfaces and consider the needs of the academic advisors in the department of Computer Science at ABCU and the students. Also, understanding the requirements given to me by my clients and their feedback has become a crucial aspect in the process of designing these interfaces. Additionally, embracing an agile development methodology has become very important to my approach. Iteratively refining the solution based on my client's feedback and adapting myself to changing requirements has been a significant aspect of this project. Finally, throughout the project I encountered roadblocks that I had to overcome. These problems sharpened my problem-solving skills and taught me to approach challenges with a systematic mindset, breaking them down into manageable parts and using any available resources to find solutions. 
+
+Overall, working on this project broadened my perspective on software design and development, emphasizing the importance of modular architecture, efficient algorithms, and agile methodologies. 
 
 - **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+
+My work on this project he
